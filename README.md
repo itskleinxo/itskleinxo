@@ -1,4 +1,4 @@
-### Hi, I'm nisammoro 👋
+### Hi, I'm Klein 👋
 
 Freelance developer from Croatia 🇭🇷, focused on **Discord bots** and **backend systems** in TypeScript.
 
