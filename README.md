@@ -1,10 +1,8 @@
-### Hi, I'm Klein 👋
+### hey, i'm klein
 
-Freelance developer from Croatia 🇭🇷, focused on **Discord bots** and **backend systems** in TypeScript.
+freelance dev from croatia. i mostly build discord bots, things like economy systems, minigames and the backend that keeps them running.
 
-I build custom bots end to end: economy and game systems, interactive menus, databases and everything behind them, built to stay fast and reliable as a server grows.
-
-#### 🛠️ Tech stack
+**stack**
 
 ![TypeScript](badges/typescript.svg)
 ![Bun](badges/bun.svg)
@@ -14,8 +12,8 @@ I build custom bots end to end: economy and game systems, interactive menus, dat
 ![SQLite](badges/sqlite.svg)
 ![Git](badges/git.svg)
 
-#### 💼 Available for work
+**work**
 
-Need a custom Discord bot or help with an existing one? Feel free to reach out.
+open for commissions, dm me on discord.
 
 ![Discord](badges/discord-kleinxo.svg)
