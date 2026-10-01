@@ -18,4 +18,4 @@ I build custom bots end to end: economy and game systems, interactive menus, dat
 
 Need a custom Discord bot or help with an existing one? Feel free to reach out.
 
-![Discord](badges/discord.svg)
+![Discord](badges/discord-kleinxo.svg)
